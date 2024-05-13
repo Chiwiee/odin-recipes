@@ -10,12 +10,8 @@ Struggled for a bit because of some misunderstanding (english reading comprehens
 
 ---
 
-I struggled in img path, Because i forgot to add ./ and ../ i forgot that you need to go back and forth or
-
+I struggled in img path, Because i forgot to add ./ and ../ i forgot that you need to go back and forth.
 so yeah it took me 3 and a Half hours.
-
-Half hour of trying to understand the Instruction
-
-2 Hours of trying to Git Reset and end up Git Reset back to Zero hahahaha
-
-and 1 hour of Finishing the Project after realizing that i'm stupid
+Half hour of trying to understand the Instruction.
+2 Hours of trying to Git Reset and end up Git Reset back to Zero.
+and 1 hour of Finishing the Project after realizing that i'm stupid.
