@@ -14,7 +14,11 @@ img {
 h1,
 h3 {
 	text-align: center;
-	font-size: 40px;
+	font-size: 50px;
 	color: whitesmoke;
 	background-color: rgba(143, 143, 143, 0.281);
+}
+p {
+	font-size: 25px;
+	font-weight: bold;
 }
