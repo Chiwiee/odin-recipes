@@ -21,4 +21,11 @@ h3 {
 p {
 	font-size: 25px;
 	font-weight: bold;
+	text-align: center;
+}
+ul {
+	display: table;
+	margin: 0 auto;
+	font-size: 25px;
+	font-weight: 700;
 }
