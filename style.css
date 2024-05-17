@@ -8,3 +8,43 @@
     margin: 0;
     padding: 0;
 }
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    height: 700px;
+    width: 700px;
+    margin: 0 auto;
+}
+.title {
+    font-size: 40px;
+    color: azure;
+    text-align: center;
+
+}
+img {
+    height: auto;
+    width: 700px;
+}
+.list {
+    display: inline;
+    margin: 0 auto;
+}
+ul li {
+    font-size: 50px;
+    list-style-type: none;
+    text-align: center;
+    display: block;
+    margin: 0 auto
+}
+button {
+    background-color: rgb(255, 250, 255);
+    padding: 15px;
+    border-radius: 30px;
+    border-color: rgb(249, 197, 249);
+    font-size: 30px;
+    margin-top: 20px;
+}
+a {
+    text-decoration: none;
+}
