@@ -1,50 +1,71 @@
 *,
 ::before,
 ::after {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 * {
-    
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 body {
-    font-family: 'Times New Roman', Times, serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 .container {
-    height: 700px;
-    width: 700px;
-    margin: 0 auto;
+  margin: 0 auto;
 }
 .title {
-    font-size: 40px;
-    color: azure;
-    text-align: center;
-
+  font-size: 40px;
+  color: azure;
+  text-align: center;
 }
 img {
-    height: auto;
-    width: 700px;
+  height: auto;
+  width: 700px;
+}
+.img-odin {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 100px;
 }
 .list {
-    display: inline;
-    margin: 0 auto;
+  display: inline;
+  margin: 0 auto;
 }
 ul li {
-    font-size: 50px;
-    list-style-type: none;
-    text-align: center;
-    display: block;
-    margin: 0 auto
+  font-size: 50px;
+  list-style-type: none;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 button {
-    background-color: rgb(255, 250, 255);
-    padding: 15px;
-    border-radius: 30px;
-    border-color: rgb(249, 197, 249);
-    font-size: 30px;
-    margin-top: 20px;
+  background-color: rgb(225, 225, 225);
+  padding: 15px 25px;
+  border-radius: 20px;
+  font-size: 30px;
+  margin-top: 20px;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+  box-shadow: 0 8px #999;
+}
+button:hover {
+  background-color: rgb(197, 197, 197);
+}
+button:active {
+  background-color: rgb(197, 197, 197);
+  box-shadow: 0 5px #666;
+  transform: translateY(5px);
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
+}
+.b-pechay {
+  padding: 20px 50px;
+}
+.b-kalabasa {
+  padding: 21px 37px;
+}
+.b-ampalaya {
+  padding: 22px 32px;
 }
